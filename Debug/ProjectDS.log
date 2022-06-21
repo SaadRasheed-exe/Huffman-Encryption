@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+C:\Users\HP\source\repos\ProjectDS\huffman.h(9,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\ProjectDS\huffman.h(75,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\ProjectDS\huffman.h(89,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\ProjectDS\huffman.h(100,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\ProjectDS\huffman.h(172,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\ProjectDS\huffman.h(187,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\ProjectDS\huffman.h(251,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\ProjectDS\huffman.h(265,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\ProjectDS\huffman.h(461,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\ProjectDS\huffman.h(473,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\ProjectDS\MyForm.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ProjectDS.vcxproj -> C:\Users\HP\source\repos\ProjectDS\Debug\ProjectDS.exe
